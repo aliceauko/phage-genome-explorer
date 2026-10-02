@@ -88,3 +88,33 @@ phage-genome-explorer/
 │   └── find_outliers.py
 │
 └── requirements.txt
+
+## Reproducibility
+
+The raw genomes were retrieved programmatically from NCBI using `download_genomes.py`.
+
+Metadata extraction and analysis are implemented as Python scripts in the `scripts/` directory.
+
+Python dependencies are listed in `requirements.txt`.
+
+## Limitations
+
+This project focuses on basic genomic characterization and descriptive analysis. It does not include phylogenetic analysis, formal genome clustering, functional annotation beyond existing RefSeq features, or comparative genomics.
+
+CDS and tRNA counts depend on the annotations provided in the source GenBank records.
+
+## Future Directions
+
+Possible extensions include:
+
+- Comparative genome analysis
+- Phylogenetic analysis
+- Genome annotation
+- Phage-host interaction analysis
+- Identification of antimicrobial or other functional genes
+- Machine-learning approaches for phage classification or host prediction
+- Development of an interactive phage genomics dashboard
+
+## Author
+
+Alice Auko Owiti
