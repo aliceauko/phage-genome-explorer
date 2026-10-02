@@ -88,6 +88,7 @@ phage-genome-explorer/
 │   └── find_outliers.py
 │
 └── requirements.txt
+```
 
 ## Reproducibility
 
