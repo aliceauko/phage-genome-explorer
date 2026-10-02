@@ -1,0 +1,177 @@
+phage_name,accession,genome_length_bp,gc_percent,topology,cds_count,trna_count
+"Staphylococcus phage IME-SA119, complete genome",NC_047732.1,141028,30.33,linear,209,4
+"Staphylococcus phage IME-SA118, complete genome",NC_047731.1,139750,30.32,linear,204,4
+"Staphylococcus phage IME-SA2, complete genome",NC_047730.1,140906,30.33,circular,212,4
+"Staphylococcus phage IME-SA1, complete genome",NC_047729.1,140218,30.33,circular,209,4
+"Staphylococcus phage A5W, complete genome",NC_047728.1,145542,30.42,linear,232,4
+"Staphylococcus phage P4W, complete genome",NC_047727.1,147590,30.39,linear,232,0
+"Staphylococcus phage MSA6, complete genome",NC_047726.1,148243,30.24,linear,232,0
+"Staphylococcus phage Fi200W, complete genome",NC_047725.1,148481,30.39,linear,233,0
+"Staphylococcus phage 676Z, complete genome",NC_047724.1,148564,30.41,linear,233,0
+"Staphylococcus phage A3R, complete genome",NC_047723.1,141018,30.5,linear,212,0
+"Staphylococcus phage Staph1N, complete genome",NC_047722.1,145647,30.41,linear,232,0
+"Staphylococcus phage SA5, complete genome",NC_047721.1,137031,30.42,linear,198,0
+Staphylococcus phage ISP complete genome,NC_047720.1,138339,30.42,linear,215,4
+"Staphylococcus phage Team1, complete genome",NC_025417.1,140903,30.33,linear,217,4
+"Staphylococcus phage vB_SauM_Romulus, complete genome",NC_020877.1,131332,30.01,linear,164,1
+"Staphylococcus phage SeAlphi, complete genome",NC_070880.1,18292,29.91,circular,20,0
+"Staphylococcus phage JPL-50, complete genome",NC_070878.1,16927,29.27,linear,29,0
+"Staphylococcus phage IME1354_01, complete genome",NC_070727.1,42706,34.17,linear,64,0
+"Staphylococcus phage LSA2366, complete genome",NC_055916.1,17056,29.4,linear,21,0
+"Staphylococcus phage vB_SauP_EBHT, complete genome",NC_055906.1,17471,29.57,linear,20,0
+"Staphylococcus phage Portland, complete genome",NC_055814.1,17711,29.29,linear,19,0
+"Staphylococcus phage vB_SauS_JS02 DNA, complete genome",NC_055040.1,46435,33.14,linear,67,0
+"Staphylococcus phage vB_SpsM_WIS42, complete genome",NC_055025.1,40093,35.69,linear,72,0
+"Staphylococcus phage SN8, complete genome",NC_055020.1,39803,35.79,circular,69,0
+"Staphylococcus phage vB_SauS-SAP27, complete genome",NC_054981.1,43444,34.95,linear,67,0
+"Staphylococcus phage B122, complete genome",NC_054979.1,43108,34.99,linear,68,0
+"Staphylococcus phage SA75, complete genome",NC_054975.1,43134,34.44,linear,65,0
+"Staphylococcus phage Baq_Sau1, complete genome",NC_054973.1,44384,34.05,linear,67,0
+"Staphylococcus phage 80, complete genome",NC_030652.1,42140,35.56,linear,61,0
+"Staphylococcus phage phinm2, complete genome",NC_028913.1,43145,34.59,linear,66,0
+"Staphylococcus phage phinm4, complete genome",NC_028864.1,43189,34.74,linear,68,0
+"Staphylococcus phage K, complete genome",NC_005880.2,148317,30.39,linear,233,4
+"Staphylococcus phage SA11, complete genome",NC_019511.1,136326,30.04,linear,186,0
+"Staphylococcus phage vB_SepiS-phiIPLA7, complete genome",NC_018284.1,42123,34.76,linear,59,0
+"Staphylococcus phage vB_SepiS-phiIPLA5, complete genome",NC_018281.1,43581,34.73,linear,66,0
+"Staphylococcus phage SAP-26, complete genome",NC_014460.1,41207,34.02,linear,63,0
+"Staphylococcus phage phiSauS-IPLA88, complete genome",NC_011614.1,42526,34.91,linear,60,0
+"Staphylococcus phage phiSauS-IPLA35, complete genome",NC_011612.1,45344,33.25,linear,62,0
+"Staphylococcus phage phiMR25 DNA, complete genome",NC_010808.1,44342,34.33,linear,70,0
+"Staphylococcus phage phiMR11 DNA, complete genome",NC_010147.1,43011,35.63,linear,67,0
+"Staphylococcus phage 80alpha, complete genome",NC_009526.1,43864,34.1,linear,73,0
+"Staphylococcus phage phiETA3 DNA, complete genome, strain: TY32",NC_008799.1,43282,34.9,circular,68,0
+"Staphylococcus phage phiETA2 DNA, complete genome, strain: TY94",NC_008798.1,43265,34.28,circular,69,0
+"Staphylococcus phage PH15, complete genome",NC_008723.1,44041,34.91,linear,68,0
+"Staphylococcus phage CNPH82, complete genome",NC_008722.1,43420,34.68,linear,65,0
+"Staphylococcus phage phinm1, complete genome",NC_008583.1,43128,34.16,linear,64,0
+"Staphylococcus phage 92, complete genome",NC_007064.1,42431,35.72,linear,64,0
+"Staphylococcus phage 88, complete genome",NC_007063.1,43231,35.47,linear,66,0
+"Staphylococcus phage 52A, complete genome",NC_007062.1,41690,35.53,linear,60,0
+"Staphylococcus phage 29, complete genome",NC_007061.1,42802,35.37,linear,67,0
+"Staphylococcus phage 55, complete genome",NC_007060.1,41902,35.72,linear,77,0
+"Staphylococcus phage 71, complete genome",NC_007059.1,43114,35.24,linear,67,0
+"Staphylococcus phage 96, complete genome",NC_007057.1,43576,35.01,linear,74,0
+"Staphylococcus phage EW, complete genome",NC_007056.1,45286,35.99,linear,77,0
+"Staphylococcus phage 37, complete genome",NC_007055.1,43681,35.11,linear,70,0
+"Staphylococcus phage 47, complete genome",NC_007054.1,44777,33.46,linear,65,0
+"Staphylococcus phage 3A, complete genome",NC_007053.1,43095,33.46,linear,67,0
+"Staphylococcus phage 42e, complete genome",NC_007052.1,45861,33.73,linear,79,0
+"Staphylococcus phage 53, complete genome",NC_007049.1,43883,34.08,linear,74,0
+"Staphylococcus phage 69, complete genome",NC_007048.1,42732,34.3,linear,69,0
+"Staphylococcus phage 187, complete genome",NC_007047.1,39620,34.25,linear,77,0
+"Staphylococcus phage G1, complete genome",NC_007066.1,138715,30.39,linear,214,0
+"Staphylococcus phage 85, complete genome",NC_007050.1,44283,34.59,linear,71,0
+"Staphylococcus phage X2, complete genome",NC_007065.1,43440,35.96,linear,77,0
+"Staphylococcus phage Twort, complete genome",NC_007021.1,130706,30.26,linear,195,0
+"Staphylococcus phage phiSLT, complete genome",NC_002661.2,42942,33.31,linear,61,0
+"Staphylococcus phage 77, complete genome",NC_005356.1,41708,33.53,linear,69,0
+"Staphylococcus phage phi44AHJD, complete genome",NC_004678.1,16784,29.62,linear,21,0
+"Staphylococcus phage phi 11, complete genome",NC_004615.1,43604,34.5,linear,53,0
+"Staphylococcus phage phiETA DNA, complete genome",NC_003288.1,43081,35.43,linear,66,0
+"Staphylococcus phage SA46-CL1, complete genome",NC_055802.1,17508,28.81,linear,19,0
+"Staphylococcus phage phiSa2wa_st121mssa, complete genome",NC_055049.1,45621,33.06,linear,65,0
+"Staphylococcus phage phiSa2wa_st78, complete genome",NC_055048.1,45878,33.22,linear,67,0
+"Staphylococcus phage phiSa2wa_st30, complete genome",NC_055047.1,45780,33.44,linear,65,0
+"Staphylococcus phage phiSa2wa_st5, complete genome",NC_055046.1,44823,33.41,linear,77,0
+"Staphylococcus phage phiSa2wa_st1, complete genome",NC_055045.1,45585,33.28,linear,65,0
+"Staphylococcus phage SAP11, complete genome",NC_055044.1,45346,33.42,circular,63,0
+"Staphylococcus phage SA137ruMSSAST121PVL, complete genome",NC_055043.1,45999,33.31,linear,64,0
+"Staphylococcus phage vB_SauS_fPfSau02, complete genome",NC_055039.1,45108,33.71,linear,68,0
+"Staphylococcus phage SH-St 15644, complete genome",NC_055038.1,45111,33.35,linear,64,0
+"Staphylococcus phage SP276 DNA, complete genome",NC_055023.1,40147,35.35,circular,70,0
+"Staphylococcus phage SP197 DNA, complete genome",NC_055022.1,41149,35.67,circular,70,0
+"Staphylococcus phage SP120 DNA, complete genome",NC_055021.1,40530,34.99,circular,70,0
+"Staphylococcus phage phiSP44-1, complete genome",NC_055019.1,42565,35.9,linear,66,0
+"Staphylococcus phage UPMK_2, complete genome",NC_054983.1,40955,35.39,linear,62,0
+"Staphylococcus phage Sebago, complete genome",NC_054982.1,43878,35.31,linear,70,0
+"Staphylococcus phage Henu2, complete genome",NC_054980.1,43513,35.04,linear,62,0
+"Staphylococcus phage SAP33, complete genome",NC_054976.1,42414,33.96,circular,64,0
+"Staphylococcus phage HSA84, complete genome",NC_054974.1,42650,34.57,circular,60,0
+"Staphylococcus phage SA780ruMSSAST101, complete genome",NC_048711.1,43184,33.55,linear,65,0
+"Staphylococcus phage SA1014ruMSSAST7, complete genome",NC_048710.1,43504,33.08,linear,64,0
+"Staphylococcus phage phiSa2wa_st22, complete genome",NC_048681.1,38576,33.24,linear,53,0
+"Staphylococcus phage vB_SpsS_QT1, complete genome",NC_048192.1,43029,36.88,linear,60,0
+"Staphylococcus phage CSA13, complete genome",NC_048159.1,17034,28.97,linear,18,0
+"Staphylococcus phage Pabna, complete genome",NC_048107.1,17700,29.36,linear,21,0
+"Staphylococcus phage phiSA_BS2, complete genome",NC_047948.1,149229,29.61,linear,209,0
+"Staphylococcus phage phiSA_BS1, complete genome",NC_047945.1,142978,29.8,linear,200,0
+"Staphylococcus phage vB_SauP_phiAGO1.3, complete genome",NC_047919.1,17603,28.96,linear,20,0
+"Staphylococcus phage P240, complete genome",NC_055042.1,45985,33.11,linear,67,0
+"Staphylococcus phage IME1348_01, complete genome",NC_055036.1,42371,34.69,linear,63,0
+"Staphylococcus phage SpT152, complete genome",NC_055024.1,41087,35.54,linear,68,0
+"Staphylococcus phage SA7, complete genome",NC_048658.1,34730,34.13,linear,53,0
+"Staphylococcus phage IME1361_01, complete genome",NC_048657.1,43516,32.85,linear,67,0
+"Staphylococcus phage 3 AJ-2017, complete genome",NC_048644.1,43922,33.28,linear,66,0
+"Staphylococcus phage P1105, complete genome",NC_048636.1,42282,33.46,linear,69,0
+"Staphylococcus phage St 134, complete genome",NC_047814.1,18275,30.1,linear,21,0
+"Staphylococcus phage Andhra, complete genome",NC_047813.1,18546,29.82,linear,20,0
+"Staphylococcus phage SCH1, complete genome",NC_047788.1,18023,29.34,linear,21,0
+"Staphylococcus phage vB_SscM-1, complete genome",NC_047767.1,139681,31.83,linear,203,0
+"Staphylococcus phage CNPx, complete genome",NC_031241.1,43293,34.66,linear,69,0
+"Staphylococcus phage SLPW, complete genome",NC_031008.1,17861,29.35,linear,20,0
+"Staphylococcus phage LH1, complete genome",NC_055041.1,46048,33.19,linear,57,0
+"Staphylococcus phage SP5, complete genome",NC_054977.1,43305,34.45,linear,63,0
+"Staphylococcus phage phi7247PVL DNA, complete genome",NC_048624.1,42481,33.31,linear,42,0
+"Staphylococcus phage P630, complete genome",NC_048635.1,40448,33.75,linear,64,0
+"Staphylococcus phage P282, complete genome",NC_048634.1,41960,32.96,linear,68,0
+"Staphylococcus phage phiIBB-SEP1, complete genome",NC_041928.1,139928,27.93,linear,200,0
+"Staphylococcus phage BP39, complete genome",NC_031046.1,17641,29.02,linear,20,0
+"Staphylococcus phage Stau2, complete genome",NC_030933.1,133798,29.97,linear,177,0
+"Staphylococcus phage SPbeta-like, complete genome",NC_029119.1,127726,30.53,circular,156,0
+"Staphylococcus phage 812, complete genome",NC_029080.1,142096,30.4,linear,221,3
+"Staphylococcus phage IME-SA4, complete genome",NC_029025.1,41843,33.98,circular,62,0
+"Staphylococcus phage SA97, complete genome",NC_029010.1,40592,34.25,circular,54,0
+"Staphylococcus phage phiIPLA-C1C, complete genome",NC_028962.1,140961,27.96,linear,203,0
+"Staphylococcus phage 3MRA, complete genome",NC_028917.1,41931,35.41,linear,66,0
+"Staphylococcus phage B236, complete genome",NC_028915.1,43228,35.55,linear,67,0
+"Staphylococcus phage vB_SauS_phi2, complete genome",NC_028862.1,44222,33.72,linear,61,0
+"Staphylococcus phage B166, complete genome",NC_028859.1,42881,34.83,linear,64,0
+"Staphylococcus phage StB20-like, complete genome",NC_028821.1,40670,33.29,linear,59,0
+"Staphylococcus phage 23MRA, complete genome",NC_028775.1,43098,32.9,linear,66,0
+"Staphylococcus phage phiIPLA-RODI, complete genome",NC_028765.1,142348,30.42,linear,213,0
+"Staphylococcus phage phiJB, complete genome",NC_028669.1,43012,34.73,linear,70,0
+"Staphylococcus phage StB12, complete genome",NC_020490.2,44714,34.17,linear,74,0
+"Staphylococcus phage phiBU01, complete genome",NC_026016.1,43748,33.02,circular,46,0
+"Staphylococcus phage MCE-2014, complete genome",NC_025416.1,141907,30.38,linear,204,0
+"Staphylococcus phage phiSa119, complete genome",NC_025460.1,42600,33.4,circular,68,0
+"Staphylococcus phage P108, complete genome",NC_025426.1,140807,30.22,linear,226,3
+"Staphylococcus phage DW2, complete genome",NC_024391.1,41941,35.98,circular,62,0
+"Staphylococcus phage 6ec, complete genome",NC_024355.1,93794,29.3,linear,142,1
+"Staphylococcus phage GRCS, complete genome",NC_023550.1,17869,28.9,linear,21,0
+"Staphylococcus phage vB_SepS_SEP9, complete genome",NC_023582.1,92417,29.57,linear,129,1
+"Staphylococcus phage phiSA012 DNA, complete genome",NC_023573.1,142094,30.31,linear,207,0
+"Staphylococcus phage StauST398-5, complete genome",NC_023500.1,43301,35.14,linear,65,0
+"Staphylococcus phage StauST398-4, complete genome",NC_023499.1,42906,33.08,linear,65,0
+"Staphylococcus phage Sb-1, complete genome",NC_023009.1,127188,30.48,linear,168,4
+"Staphylococcus phage S25-3 DNA, complete genome",NC_022920.1,139738,30.22,circular,206,3
+"Staphylococcus phage S25-4 DNA, complete genome",NC_022918.1,132123,30.31,circular,184,2
+"Staphylococcus phage phiRS7, complete genome",NC_022914.1,43394,34.27,linear,62,0
+"Staphylococcus phage YMC/09/04/R1988, complete genome",NC_022758.1,44459,33.37,linear,62,0
+"Staphylococcus phage JS01, complete genome",NC_021773.2,43458,33.32,linear,66,0
+"Staphylococcus phage vB_SauM_Remus, complete genome",NC_022090.1,134643,29.97,linear,174,1
+"Staphylococcus phage SA13, complete genome",NC_021863.1,42652,35.42,circular,62,0
+"Staphylococcus phage SA12, complete genome",NC_021801.1,42902,34.54,circular,58,0
+"Staphylococcus phage StauST398-3, complete genome",NC_021332.1,41392,35.6,linear,69,0
+"Staphylococcus phage StauST398-1, complete genome",NC_021326.1,45242,34.46,linear,69,0
+"Staphylococcus phage StauST398-2, complete genome",NC_021323.1,45572,33.34,linear,62,0
+"Staphylococcus phage phi7401PVL DNA, complete genome",NC_020199.1,47252,33.04,linear,44,0
+"Staphylococcus phage phi5967PVL DNA, complete genome",NC_019921.1,42461,33.31,linear,42,0
+"Staphylococcus phage StB20, complete genome",NC_019915.1,40917,34.07,linear,65,0
+"Staphylococcus phage StB27, complete genome",NC_019914.1,40071,33.22,linear,53,0
+"Staphylococcus phage JD007, complete genome",NC_019726.1,141836,30.37,circular,217,0
+"Staphylococcus phage SMSAP5, complete genome",NC_019513.1,45552,33.41,linear,42,0
+"Staphylococcus phage GH15, complete genome",NC_019448.1,139806,30.23,linear,214,0
+"Staphylococcus phage SpaA1, complete genome",NC_018277.1,42784,35.63,linear,63,0
+"Staphylococcus phage TEM123, complete genome",NC_017968.1,43786,34.04,linear,43,0
+"Staphylococcus phage S24-1, complete genome",NC_016565.1,18168,28.91,linear,21,0
+"Staphylococcus phage P954, complete genome",NC_013195.1,40761,33.99,linear,69,0
+"Staphylococcus phage phiPVL-CN125, complete genome",NC_012784.1,44492,33.57,linear,65,0
+"Staphylococcus phage phi2958PVL, complete genome",NC_011344.1,47342,33.04,linear,60,0
+"Staphylococcus phage SAP-2, complete genome",NC_009875.1,17938,28.94,linear,20,0
+"Staphylococcus phage phiPVL108, complete genome",NC_008689.1,44857,33.47,linear,59,0
+"Staphylococcus phage phiNM3, complete genome",NC_008617.1,44061,32.99,linear,65,0
+"Staphylococcus phage ROSA, complete genome",NC_007058.1,43155,35.06,linear,74,0
+"Staphylococcus phage 2638A, complete genome",NC_007051.1,41318,36.92,linear,57,0
+"Staphylococcus phage 66, complete genome",NC_007046.1,18199,29.29,linear,27,0
+"Staphylococcus phage phiP68, complete genome",NC_004679.1,18227,29.32,linear,22,0
